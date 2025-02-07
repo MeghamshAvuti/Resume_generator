@@ -1,15 +1,15 @@
 # 📄 Resume Generator 
 
-## 🌟 Project Overview
+## Project Overview
 This is a resume generator application that takes details from the user through a form, generates a resume in PDF format, and stores data in a backend database (MySQL/MongoDB). The application incorporates the IPStack API to automatically fetch the user's geolocation.
 
-## 🚀 Features
-✅ **Dynamic Resume Form**: Users can enter personal details, work experience, skills, and projects.  
-✅ **Geolocation Tracking**: Automatically detects and fills in the user's **City, Region, and Country**.  
-✅ **Resume Templates**: Users can choose from **three resume templates**.  
-✅ **PDF Resume Generation**: Converts the resume into a **downloadable PDF** using **WeasyPrint**.  
-✅ **Database Storage**: Saves user resume details in **MySQL/MongoDB**.  
-✅ **RESTful API**: Built with **FastAPI**, providing endpoints for form submission, PDF generation, and fetching location.
+##  Features
+ **Dynamic Resume Form**: Users can enter personal details, work experience, skills, and projects.  
+ **Geolocation Tracking**: Automatically detects and fills in the user's **City, Region, and Country**.  
+ **Resume Templates**: Users can choose from **three resume templates**.  
+ **PDF Resume Generation**: Converts the resume into a **downloadable PDF** using **WeasyPrint**.  
+ **Database Storage**: Saves user resume details in **MySQL/MongoDB**.  
+ **RESTful API**: Built with **FastAPI**, providing endpoints for form submission, PDF generation, and fetching location.
 
 ---
 
@@ -30,7 +30,7 @@ This is a resume generator application that takes details from the user through 
 
 ### 🔹 Step 1: Clone the Repository
 
-git clone https://github.com/MeghamshAvuti/resume-generator.git
+git clone  https://github.com/MeghamshAvuti/Resume_generator
 cd resume-generator
 
 Step 2: Set Up Virtual Environment
