@@ -20,7 +20,7 @@ This is a resume generator application that takes details from the user through 
 
 **Backend:**  
 - **FastAPI (Python)**  
-- **MySQL / MongoDB** (Choose one)  
+- **MySQL   
 - **WeasyPrint** (For PDF Generation)  
 - **IPStack API** (For Geolocation)
 
